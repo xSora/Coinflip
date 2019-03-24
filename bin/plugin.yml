@@ -1,0 +1,14 @@
+name: Coinflip
+version: 1.0.0
+autor: [xSora]
+
+main: me.xSora.Main
+api-version: 1.13
+
+depends: [Vault]
+
+commands:
+   coinflip:
+      permission: coinflip.use
+      description: Coinflip Command
+      alias: cf
